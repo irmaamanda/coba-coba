@@ -34,5 +34,3 @@ def make_model():
 
 # plot the model
 keras.utils.plot_model(model, show_shapes=True)
-
-  return model
